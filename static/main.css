@@ -1,0 +1,21 @@
+body{
+    /*font-family: "B Nazanin";*/
+    /*font-family: "sans-serif";*/
+    font-family: "B Nazanin", sans-serif;
+}
+.btn_sign_up{
+    width: 150px;
+    font-weight: bold;
+
+}
+.btn_login{
+    width: 80px;
+    font-weight: bold;
+}
+.mg-logo{
+    margin-right: 50%;
+
+}
+.product_size{
+    width: 15%;
+}
